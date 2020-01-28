@@ -1,0 +1,9 @@
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\EPPlus.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\EPPlus.xml
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
